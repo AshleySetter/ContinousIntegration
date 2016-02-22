@@ -10,4 +10,4 @@ dependancies:
 
 test:
   override:
-  	- py.test -v
+    - py.test -v
